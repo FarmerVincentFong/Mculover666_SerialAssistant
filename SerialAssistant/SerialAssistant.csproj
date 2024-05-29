@@ -120,6 +120,7 @@
   <ItemGroup />
   <ItemGroup>
     <Content Include="doge.ico" />
+    <None Include="README By FWQ.md" />
     <None Include="Resources\about.png" />
     <None Include="Resources\clear_send.png" />
     <None Include="Resources\upload.png" />
